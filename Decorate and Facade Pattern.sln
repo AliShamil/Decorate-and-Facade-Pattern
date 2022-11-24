@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorate Pattern", "Decorate and Facade Pattern\Decorate Pattern.csproj", "{9EB99236-F129-4CCD-94FD-D197DD110F99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade Pattern", "Facade Pattern\Facade Pattern.csproj", "{252EF11F-F010-43A4-AEF6-DECF84C35CB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EB99236-F129-4CCD-94FD-D197DD110F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB99236-F129-4CCD-94FD-D197DD110F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB99236-F129-4CCD-94FD-D197DD110F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB99236-F129-4CCD-94FD-D197DD110F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252EF11F-F010-43A4-AEF6-DECF84C35CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252EF11F-F010-43A4-AEF6-DECF84C35CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252EF11F-F010-43A4-AEF6-DECF84C35CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252EF11F-F010-43A4-AEF6-DECF84C35CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D28DD413-06A5-4E59-A42C-BBE2C3D66FD4}
+	EndGlobalSection
+EndGlobal
